@@ -1,2 +1,4 @@
 # Physical-Computing
-This repository holds information about Physical Computing
+
+
+![alt text](http://microbit.org/images/quickstart/microbit-plugged-in.gif)
