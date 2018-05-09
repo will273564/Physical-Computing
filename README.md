@@ -10,4 +10,4 @@
   <dd></dd>
   <dd>Where can I find one?</dd>
 </dl>
-  [[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+You can find the microbit website here: http://microbit.org/
