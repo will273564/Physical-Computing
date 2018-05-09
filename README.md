@@ -38,7 +38,7 @@ You can find motion sensors for home security here:https://www.homesecurityonlin
 <dd>Temperature sensor:</dd>
 <img src="https://cdn.sparkfun.com//assets/parts/4/1/8/8/10988-01.jpg" alt="" width="288" height="255">
 <dd>What does it do?</dd>
-A temperature sensor detects the relative amount of heat in a certain area.
+A temperature sensor detects the relative amount of heat in a certain area and outputs the information to another device.
 <dd></dd>
 <dd>Where can I find one?</dd>
 <dd></dd>
