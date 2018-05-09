@@ -81,6 +81,12 @@ Operating systems are found all over the internet. Most cost money and others ar
 <dt>Different types of software:</dt>
 <dd>Computer Software (Ms word example):</dd>
 <img src="https://www.emergeits.com/images/easyblog_shared/October_2017/10-11-17/Wordlogo400.jpg" alt="" width="299" height="300">
+<dd>What is it?</dd>
+Computer software (often called just software) is a set of instructions and associated documentation that tells a computer what to do or how to perform a task.
+<dd></dd>
+<dd>Where can I find some?</dd>
+<dd></dd>
+Computer software is found all over the internet. Some of it is even pre-installed onto your computer. Infact, you would not be able to read this now if you were not utilizing any kind of software (such as a web browser.)
 
 
 
