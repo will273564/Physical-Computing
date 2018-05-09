@@ -49,7 +49,7 @@ You can find temperature sensors here: https://www.electronics-tutorials.ws/io/i
 An actuator is a component of a machine that is responsible for moving and controlling a mechanism or system. They can be used to open hinges or move parts of a machine.
 <dt>Different types of actuators:</dt>
 <dd>Electrical powered:</dd>
-<img src="http://globalblog.posco.com//wp-content/uploads/2018/01/Electric-Actuator.jpg" alt="" width="288" height="255">
+<img src="http://globalblog.posco.com//wp-content/uploads/2018/01/Electric-Actuator.jpg" alt="" width="430" height="255">
 
 
 
