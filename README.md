@@ -58,7 +58,13 @@ An electrical powered actuator is an actuator that is powered by electricity. It
 You can find electrical powered actuators here: https://www.ebay.com.au/i/132266448635?chn=ps
 <dt>Different types of actuators:</dt>
 <dd>Motion actuator:</dd>
+<img src=https://www.timotion.com/_upload/images/1705111605080.jpg" alt="" width="400" height="255">
 <dd>What does it do?</dd>
+A motion actuator is an actuator that powers itself when it is extended by human effort and will automatically retract, like the actuator in an auto-shutting door.
+<dd></dd>
+<dd>Where can I find one?</dd>
+<dd></dd>
+You can find motion powered actuators here: https://www.timotion.com/products/1
 
 
 
