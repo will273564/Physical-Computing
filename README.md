@@ -23,4 +23,6 @@ You can find the microbit website here: http://microbit.org/
 You can find the arduino here: https://www.arduino.cc/
 
 # Different Types Of Sensors
-  
+<dt>What are sensors?</dt>
+a sensor is a device which detects or measures a physical property and records, indicates, or otherwise responds to it.
+<dt>Different types of sensors:</dt>
