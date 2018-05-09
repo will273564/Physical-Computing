@@ -26,3 +26,6 @@ You can find the arduino here: https://www.arduino.cc/
 <dt>What are sensors?</dt>
 a sensor is a device which detects or measures a physical property and records, indicates, or otherwise responds to it.
 <dt>Different types of sensors:</dt>
+<dd>Motion sensor:</dd>
+<img src="https://multimedia.bbycastatic.ca/multimedia/products/500x500/103/10325/10325549.jpg" alt="" width="288" height="255">
+
