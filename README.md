@@ -30,5 +30,7 @@ a sensor is a device which detects or measures a physical property and records, 
 <img src="https://multimedia.bbycastatic.ca/multimedia/products/500x500/103/10325/10325549.jpg" alt="" width="288" height="255">
 <dd>What does it do?</dd>
 A motion sensor maps its location and updates every certain amount of time. If a large change in layout is detected a certain action will be performed (such as an alarm ringing.)
+<dd>Where can I find one?</dd>
+You can find motion sensors for home security here:https://www.homesecurityonline.com.au/product-category/alarm-systems/alarm-accessories/motion-detectors/
 
 
