@@ -10,4 +10,4 @@
   <dd></dd>
   <dd>Where can I find one?</dd>
 </dl>
-  ![a link](microbit.org)
+  [[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
