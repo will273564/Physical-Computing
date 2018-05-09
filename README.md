@@ -71,7 +71,7 @@ You can find motion powered actuators here: https://www.timotion.com/products/1
 Computer software, or simply software, is a part of a computer system that consists of data or computer instructions. It is called software because it is not a phyisical object, hence the 'soft' in the name
 <dt>Different types of software:</dt>
 <dd>Operating system:</dd>
-<img src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" alt="" width="430" height="255">
+<img src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" alt="" width="299" height="300">
 
 
 
