@@ -44,4 +44,12 @@ A temperature sensor detects the relative amount of heat in a certain area and o
 <dd></dd>
 You can find temperature sensors here: https://www.electronics-tutorials.ws/io/io_3.html
 
+# Different Types Of Actuators
+<dt>What are actuators?</dt>
+An actuator is a component of a machine that is responsible for moving and controlling a mechanism or system. They can be used to open hinges or move parts of a machine.
+<dt>Different types of actuators:</dt>
+<dd>Electrical powered:</dd>
+<img src="http://globalblog.posco.com//wp-content/uploads/2018/01/Electric-Actuator.jpg" alt="" width="288" height="255">
+
+
 
