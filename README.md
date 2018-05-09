@@ -8,4 +8,4 @@
   <dd>What does it do?</dd>
   A microbit is a small microprocessor that is programmed through the microbit website and then uploaded to the computer. It features 25 buttons that can light up red and two buttons (a and b) that are used to trigger certain events.
   <dd>Where can I find one?</dd>
-  ![Microbits are purchasable off the internet and can be found here](http://microbit.org/)
+  [Microbits are purchasable off the internet and can be found here](http://microbit.org/)
