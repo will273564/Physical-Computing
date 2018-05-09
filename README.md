@@ -93,6 +93,13 @@ Computer software is found all over the internet. Some of it is even pre-install
 An analog signal or machine is a machine in which physical mechanics and machinery is used to perform a certain task, (such as an analog clock.) Digital signals or machines is the term used to describe how a processor or microcontroller is used to calculate certain information (such as the time in a digital clock.)
 
 # Fantasy Device
+<dt>Chosen Fantasy Device: Interactive glove</dt>
+
+<dd>What is it?</dd>
+The interactive glove is a glove that allows the user to interacte with an object, just by looking at it. For instance, by just looking at a car you could pick it up simply by making the same gestures with the glove that you would normally make.
+
+You just have to have a line of sight to be able to interact with the object. You don't even have to physically touch it and your bodily strength can be scaled to the required amount necessary to lift the object you are interacting with.
+
 
 
 
