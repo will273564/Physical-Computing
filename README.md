@@ -72,6 +72,12 @@ Computer software, or simply software, is a part of a computer system that consi
 <dt>Different types of software:</dt>
 <dd>Operating system:</dd>
 <img src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" alt="" width="299" height="300">
+<dd>What is it?</dd>
+An operation system is a piece of software that a computer uses that allows it to run any other kind of software on the operating system. Certain types of software work for certain types of operating systems.
+<dd></dd>
+<dd>Where can I find some?</dd>
+<dd></dd>
+Operating systems are found all over the internet. Most cost money and others are free.
 
 
 
