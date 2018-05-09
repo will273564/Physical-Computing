@@ -17,4 +17,9 @@ You can find the microbit website here: http://microbit.org/
   <img src="https://www.robotshop.com/media/catalog/product/cache/1/image/900x900/9df78eab33525d08d6e5fb8d27136e95/a/r/arduino-uno-r3-usb-microcontroller-6.png" alt="" width="288" height="255">
   <dt></dt>
   <dd>What does it do?</dd>
+ Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online.
+  <dd></dd>
+  <dd>Where can I find one?</dd>
+You can find the arduino here: https://www.arduino.cc/
+  
   
