@@ -50,6 +50,11 @@ An actuator is a component of a machine that is responsible for moving and contr
 <dt>Different types of actuators:</dt>
 <dd>Electrical powered:</dd>
 <img src="http://globalblog.posco.com//wp-content/uploads/2018/01/Electric-Actuator.jpg" alt="" width="430" height="255">
-
+<dd>What does it do?</dd>
+An electrical powered actuator is an actuator that is powered by electricity. It usually includes a circuit board and wires to program. This is a more advanced type of actuator and is used in many modorn day appliances.
+<dd></dd>
+<dd>Where can I find one?</dd>
+<dd></dd>
+You can find electrical powered actuators here: https://www.ebay.com.au/i/132266448635?chn=ps
 
 
