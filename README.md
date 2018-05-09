@@ -88,6 +88,10 @@ Computer software (often called just software) is a set of instructions and asso
 <dd></dd>
 Computer software is found all over the internet. Some of it is even pre-installed onto your computer. Infact, you would not be able to read this now if you were not utilizing any kind of software (such as a web browser.)
 
+# The Difference Between Analog And Digital
+<dt>What is the difference between analog and digital?</dt>
+An analog signal or machine is a machine in which physical mechanics and machinery is used to perform a certain task, (such as an analog clock.) Digital signals or machines is the term used to describe how a processor or microcontroller is used to calculate certain information (such as the time in a digital clock.)
+
 
 
 
