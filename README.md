@@ -78,6 +78,8 @@ An operation system is a piece of software that a computer uses that allows it t
 <dd>Where can I find some?</dd>
 <dd></dd>
 Operating systems are found all over the internet. Most cost money and others are free.
+<dt>Different types of software:</dt>
+<dd>Computer Software:</dd>
 
 
 
