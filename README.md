@@ -92,6 +92,8 @@ Computer software is found all over the internet. Some of it is even pre-install
 <dt>What is the difference between analog and digital?</dt>
 An analog signal or machine is a machine in which physical mechanics and machinery is used to perform a certain task, (such as an analog clock.) Digital signals or machines is the term used to describe how a processor or microcontroller is used to calculate certain information (such as the time in a digital clock.)
 
+# Fantasy Device
+
 
 
 
