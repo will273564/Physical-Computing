@@ -101,7 +101,7 @@ The interactive glove is a glove that allows the user to interacte with an objec
 You just have to have a line of sight to be able to interact with the object. You don't even have to physically touch it and your bodily strength can be scaled to the required amount necessary to lift the object you are interacting with.
 <dd></dd>
 <img src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/leather_handwraps_handwrap_leathery_ducttape_light_large.b18975cd28aee7645dbfd86009884358664e1aa5.png" alt="" width="360" height="300">
-
+The gloves would not fully cover the user's fingers which would allow other tasks be performed easily while wearing them.
 
 
 
