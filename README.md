@@ -34,5 +34,7 @@ A motion sensor maps its location and updates every certain amount of time. If a
 <dd>Where can I find one?</dd>
 <dd></dd>
 You can find motion sensors for home security here:https://www.homesecurityonline.com.au/product-category/alarm-systems/alarm-accessories/motion-detectors/
+<dt>Different types of sensors:</dt>
+<dd>Temperature sensor:</dd>
 
 
