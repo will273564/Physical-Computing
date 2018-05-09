@@ -21,5 +21,5 @@ You can find the microbit website here: http://microbit.org/
   <dd></dd>
   <dd>Where can I find one?</dd>
 You can find the arduino here: https://www.arduino.cc/
-  
+# Different Types Of Sensors
   
