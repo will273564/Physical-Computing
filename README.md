@@ -56,5 +56,9 @@ An electrical powered actuator is an actuator that is powered by electricity. It
 <dd>Where can I find one?</dd>
 <dd></dd>
 You can find electrical powered actuators here: https://www.ebay.com.au/i/132266448635?chn=ps
+<dt>Different types of actuators:</dt>
+<dd>Motion actuator:</dd>
+<dd>What does it do?</dd>
+
 
 
