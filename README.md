@@ -28,4 +28,7 @@ a sensor is a device which detects or measures a physical property and records, 
 <dt>Different types of sensors:</dt>
 <dd>Motion sensor:</dd>
 <img src="https://multimedia.bbycastatic.ca/multimedia/products/500x500/103/10325/10325549.jpg" alt="" width="288" height="255">
+<dd>What does it do?</dd>
+A motion sensor maps its location and updates every certain amount of time. If a large change in layout is detected a certain action will be performed (such as an alarm ringing.)
+
 
